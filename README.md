@@ -1,7 +1,23 @@
 # DynaLR
 Advanced learning rate optimizers for PyTorc
 ## Comprehensive Benchmark Results based on 3 seeds and 30 Epochs Training on A100 GPU for the Resnet-18 Tests and ve6-1 TPU for the SimpleCNN tests.
+## Abstract 📌
+DynaLR introduces a new family of adaptive learning rate optimizers that dynamically adjust training parameters based on real-time loss landscapes. Our benchmarks show:
 
+✔ **2.6% accuracy gain** over Adam on CNN architectures  
+✔ **Faster convergence** (3-5% speedup)  
+✔ **Architecture-aware** performance (excels on CNNs)  
+✔ **Four specialized variants** for different use cases
+
+
+Key Features ✨
+Feature	DynaLRMemory	DynaLRnoMemory	DynaLRenhanced	DynaLRAdaptivePID
+PID Control	✓	✓	✓	✓
+Loss Memory	✓	✗	Partial	✓
+Gradient Awareness	✗	✗	✓	✗
+Best For CNNs	✓	Alternative	Experimental	✗
+Best For ResNet	✗	✗	✗	✓
+Installation
 ### SimpleCNN on CIFAR-10
 | Algorithm          | Accuracy (Mean ± Std) | Time (s) | vs Adam |
 |--------------------|------------------------|----------|---------|
