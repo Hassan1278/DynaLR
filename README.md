@@ -1,6 +1,6 @@
 # DynaLR
 Advanced learning rate optimizers for PyTorc
-## Comprehensive Benchmark Results
+## Comprehensive Benchmark Results based on 3 seeds and 30 Epochs Training on A100 GPU for the Resnet-18 Tests and ve6-1 TPU for the SimpleCNN tests.
 
 ### SimpleCNN on CIFAR-10
 | Algorithm          | Accuracy (Mean ± Std) | Time (s) | vs Adam |
