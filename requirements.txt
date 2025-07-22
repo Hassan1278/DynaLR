@@ -1,0 +1,4 @@
+torch>=1.13
+matplotlib
+numpy
+pytest          # for your tests
