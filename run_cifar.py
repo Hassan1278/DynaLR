@@ -152,6 +152,6 @@ if __name__ == '__main__':
     seeds = [42,123,766]
     optim_fns = get_optimizers()
     benchmark(optim_fns, seeds, epochs=30, dataset='CIFAR10', model_fn=SimpleCNN)\n```
-For cifar 100 just change dataset to 'CIFAR100'
+#For cifar 100 just change dataset to 'CIFAR100'
 
 ```
