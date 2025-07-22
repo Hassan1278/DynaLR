@@ -43,7 +43,7 @@ DynaLR introduces a principle of adaptive learning rate optimizers using PID
 | DynaLRenhanced     | 0.6142 ± 0.0130       | 276.4    | -3.47%  |
 | DynaLRnoMemory     | 0.6316 ± 0.0051       | 277.7    | -1.73%  |
 | Adam (Baseline)    | 0.6489 ± 0.0035       | 276.7    | -       |
-| **DynaLRAdaptivePID** | **0.6554 ± 0.0062**   | 276.4    | **+0.65%** |
+| **DynaLRAdaptivePID** | **0.6504 ± 0.0062**   | 276.4    | **+0.15%** |
 
 ## Key Findings 🔍
 1. **CNN Dominance**: 3 DynaLR variants outperform Adam on lightweight CNNs:
