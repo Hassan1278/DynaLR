@@ -1,5 +1,5 @@
 # DynaLR
-Advanced learning rate optimizers for PyTorc
+Advanced learning rate optimizers for PyTorch
 ## Comprehensive Benchmark Results based on 3 seeds and 30 Epochs Training on A100 GPU for the Resnet-18 Tests and ve6-1 TPU for the SimpleCNN tests.
 ## Abstract 📌
 DynaLR introduces a principle of adaptive learning rate optimizers using PID
