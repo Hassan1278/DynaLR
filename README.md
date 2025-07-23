@@ -65,6 +65,16 @@ DynaLR introduces a principle of adaptive learning rate optimizers using PID
    - Average 2.5% speedup across all tests
 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16328686.svg)](https://doi.org/10.5281/zenodo.16328686)
+## 📄 Citation
+
+If you use this repository, please cite:
+
+Hassan Al Subaidi. *DynaLR++PID: A Dynamic Learning Rate Optimizer with Memory and PID Feedback*. Zenodo, 2025. https://doi.org/10.5281/zenodo.16328686
+
+
+
 📝 License
 MIT License (see below)
 
