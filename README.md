@@ -71,7 +71,7 @@ DynaLR introduces a principle of adaptive learning rate optimizers using PID
 
 If you use this repository, please cite:
 
-Hassan Al Subaidi. *DynaLR++PID: A Dynamic Learning Rate Optimizer with Memory and PID Feedback*. Zenodo, 2025. https://doi.org/10.5281/zenodo.16328686
+Hassan Al Subaidi. *DynaLR: A Dynamic Learning Rate Optimizer using PID Feedback*. Zenodo, 2025. https://doi.org/10.5281/zenodo.16328686
 
 
 
